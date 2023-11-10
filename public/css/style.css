@@ -1,0 +1,42 @@
+body{
+display: flex;
+    background-color: #1d2d5f;
+     flex-direction: column;
+  justify-content: space-around;
+    align-items: center;
+    
+}
+
+ h1{  padding: 1%;
+    text-align: center;
+    border:solid  rgb(30, 64, 141) 10px;
+    background-color: rgba(42, 67, 143, 0.212);
+    max-height: 55vh;
+    max-width:60vw;
+    color: rgb(255, 255, 255);
+}
+
+
+
+.logReg a{
+    color: snow;
+    text-align: end;
+    padding: 5vw;
+    
+ 
+}
+
+.logReg{
+      padding: 2vh;
+margin-top: 2vh; 
+    background-color: rgba(30, 63, 141, 0.435);
+    border:solid  rgba(26, 0, 118, 0.599) 10px;
+}
+
+#social_image{
+    max-height: 55vh;
+    max-width:60vw;
+    border: solid 5px rgba(0, 0, 0, 0.103);
+    
+}
+
